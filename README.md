@@ -1,4 +1,4 @@
-# README – RL Homework 3: Cliff Walking with Q-Learning and SARSA
+#RL Cliff Walking with Q-Learning and SARSA
 
 ## Overview
 
